@@ -8,7 +8,6 @@ module.exports = {
     publicPath: '/',
     libraryTarget: 'commonjs2'
   },
-  mode: process.env.NODE_ENV || 'production',
   resolve: {
     extensions: ['.js']
   },
